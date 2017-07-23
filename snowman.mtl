@@ -1,0 +1,77 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 22.06.2015 12:28:37
+
+newmtl 13___Default
+	Ns 13.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.1530 0.1530 0.1530
+	Ke 0.5882 0.5882 0.5882
+	map_Ka snowmanVRayCompleteMap.png
+	map_Kd snowmanVRayCompleteMap.png
+	map_bump -bm 0.3000 snowmanNormalsMap.png
+
+newmtl 20___Default
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.1800 0.1800 0.1800
+	Ke 0.5882 0.5882 0.5882
+	map_Ka mountainVRayCompleteMap.png
+	map_Kd mountainVRayCompleteMap.png
+	map_bump -bm 0.3000 mountainNormalsMap.png
+
+newmtl 14___Default
+	Ns 13.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.9810 0.9810 0.9810
+	Ke 0.5882 0.5882 0.5882
+	map_Ka treeVRayCompleteMap.png
+	map_Kd treeVRayCompleteMap.png
+	map_Ks treeSpecularMap.png
+	map_bump -bm 0.3000 treeNormalsMap.png
+
+newmtl 21___Default
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.5882 0.5882 0.5882
+	map_Ka fenceVRayCompleteMap.png
+	map_Kd fenceVRayCompleteMap.png
+
+newmtl 15___Default
+	Ns 0.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5882 0.5882 0.5882
+	Ks 0.1710 0.1710 0.1710
+	Ke 0.5882 0.5882 0.5882
+	map_Ka nearGroundVRayCompleteMap.png
+	map_Kd nearGroundVRayCompleteMap.png
+	map_bump -bm 0.3000 nearGroundNormalsMap.png
